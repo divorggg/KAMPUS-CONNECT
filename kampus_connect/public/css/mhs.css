@@ -1,0 +1,118 @@
+.das-logo-per {
+   height: 50px;
+   max-width: -webkit-fill-available;
+}
+
+.das-per-detail p {
+   margin-bottom: 0px;
+   font-weight: bold;
+}
+
+.das-per-per {
+   color: black;
+}
+
+.das-per-pos {
+   color: #4D7EFA;
+   font-size: 20px !important;
+}
+
+.das-per-det {
+   max-height: 50px;
+   overflow: hidden;
+}
+
+.das-per-wak {
+   font-size: 11px;
+   margin-top: 12px;
+   font-weight: normal !important;
+}
+
+.das-per-gaj {
+   color: #14C163;
+   font-weight: normal !important;
+}
+
+.das-ico-bookmark {
+   display: flex;
+   align-items: center;
+}
+
+.das-ico-bookmark a i {
+   font-size: 30px;
+   font-weight: 200;
+}
+
+.das-ico-bookmark a i .das-ico-bold {
+   font-weight: 1000;
+}
+
+.prof-card h4 {
+   margin-bottom: 0px !important;
+   color: #4D7EFA;
+   display: block;
+}
+
+.prof-card-body p {
+   margin-bottom: 0px !important;
+   color: black;
+}
+
+.prof-card-body h5 {
+   color: black;
+   font-weight: bold;
+}
+
+.prof-card-body .prof-item {
+   border-top: 4px solid gray;
+   padding-top: 10px;
+}
+
+.prof-card-body .prof-item:nth-child(1) {
+   border-top: none !important;
+   padding-top: 0px;
+}
+
+.prof-card {
+   display: flex;
+   justify-content: space-between;
+}
+
+.prof-modal-bg {
+   background-color: #235bff;
+   color: white;
+}
+
+.prof-modal-bg h5 {
+   font-weight: bold;
+}
+
+.prof-modal-bg button {
+   color: white;
+
+}
+
+.prof-tabel {
+   width: 100%;
+}
+
+.prof-tabel a {
+   text-align: center;
+   font-weight: bold;
+   color: red;
+}
+
+.prof-tabel td {
+   border: 1px solid #7f838f;
+   box-sizing: border-box;
+   padding: 1px 5px;
+}
+
+.prof-tabel tr:nth-child(1) td {
+   color: #7f838f;
+   font-weight: bold;
+}
+
+.prof-tabel tr td:last-child {
+   text-align: center;
+}
